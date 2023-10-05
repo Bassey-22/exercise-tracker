@@ -1,7 +1,7 @@
 {
-	"name": "freecodecamp-exercise-tracker",
+	"name": "aniekpeno_bassey-exercise-tracker",
 	"version": "0.1.0",
-	"description": "freeCodeCamp: Challenge Exercise Tracker",
+	"description": "webstack portfolio project",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -21,15 +21,15 @@
 		"npm": ">=3.10.8"
 	},
 	"repository": {
-		"url": "https://github.com/huynhsamha/freecodecamp-exercise-tracker"
+		"url": "https://github.com/Bassey-22/exercise-tracker"
 	},
 	"license": "MIT",
 	"keywords": [
 		"node",
 		"express",
-		"freecodecamp"
+		"alx"
 	],
 	"contributors": [
-		"huynhsamha"
+		"Bassey-22"
 	]
 }
