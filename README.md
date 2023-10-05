@@ -3,4 +3,4 @@
 ### alx-webstack-portfolio-project
 
 ### deployed to glitch
-https://cottony-daisy-ulna.glitch.me/
+https://cottony-daisy-ulna.glitch.me
